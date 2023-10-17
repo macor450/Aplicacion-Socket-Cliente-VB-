@@ -1,0 +1,14 @@
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente (VB)\Aplicacion Socket Cliente (VB)\bin\Debug\net6.0\Aplicacion Socket Cliente (VB).exe
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente (VB)\Aplicacion Socket Cliente (VB)\bin\Debug\net6.0\Aplicacion Socket Cliente (VB).deps.json
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente (VB)\Aplicacion Socket Cliente (VB)\bin\Debug\net6.0\Aplicacion Socket Cliente (VB).runtimeconfig.json
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente (VB)\Aplicacion Socket Cliente (VB)\bin\Debug\net6.0\Aplicacion Socket Cliente (VB).dll
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente (VB)\Aplicacion Socket Cliente (VB)\bin\Debug\net6.0\Aplicacion Socket Cliente (VB).pdb
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente (VB)\Aplicacion Socket Cliente (VB)\obj\Debug\net6.0\Aplicacion Socket Cliente (VB).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente (VB)\Aplicacion Socket Cliente (VB)\obj\Debug\net6.0\Aplicacion Socket Cliente (VB).AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente (VB)\Aplicacion Socket Cliente (VB)\obj\Debug\net6.0\Aplicacion Socket Cliente (VB).AssemblyInfo.vb
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente (VB)\Aplicacion Socket Cliente (VB)\obj\Debug\net6.0\Aplicacion Socket Cliente (VB).vbproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente (VB)\Aplicacion Socket Cliente (VB)\obj\Debug\net6.0\Aplicacion Socket Cliente (VB).dll
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente (VB)\Aplicacion Socket Cliente (VB)\obj\Debug\net6.0\refint\Aplicacion Socket Cliente (VB).dll
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente (VB)\Aplicacion Socket Cliente (VB)\obj\Debug\net6.0\Aplicacion Socket Cliente (VB).pdb
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente (VB)\Aplicacion Socket Cliente (VB)\obj\Debug\net6.0\Aplicacion Socket Cliente (VB).genruntimeconfig.cache
+C:\Users\marti\OneDrive\Escritorio\Programas\Aplicacion Socket Cliente (VB)\Aplicacion Socket Cliente (VB)\obj\Debug\net6.0\ref\Aplicacion Socket Cliente (VB).dll
